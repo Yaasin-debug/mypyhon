@@ -1,0 +1,4 @@
+#def (built-in function)
+def yaasin():
+  print("yaasin")
+yaasin()
